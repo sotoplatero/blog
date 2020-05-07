@@ -1,6 +1,6 @@
 ---
-title: "Hugo shortcodes"
-date: 2018-03-18T12:13:36+05:30
+title: Hugo shortcodes
+date: 2018-03-18 06:43:36 Z
 description: Here is a demo of all shortcodes available in Hugo.
 ---
 
